@@ -15,4 +15,4 @@ Both The Folders and Files in the Repository have to be Used as a Whole
    - os
    - platform
 
-This is a task done under teamwork in collaboration with Saket Sharma and Kalpana
+This is a task done under teamwork in collaboration with Nishant Singh and Saket Sharma.
